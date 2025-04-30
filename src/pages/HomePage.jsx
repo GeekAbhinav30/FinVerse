@@ -458,7 +458,7 @@ const HomePage = () => {
           initial="hidden"
           animate="visible"
         >
-          AI-Powered Financial
+          AI-Powered Financial Guidance 
         </motion.h1>
         
         <motion.p 
